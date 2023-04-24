@@ -11,5 +11,6 @@
 
 ## TODO
 
+* Integrate zustand with React Router
 * i18n
 * Tests with Playwright
